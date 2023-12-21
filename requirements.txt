@@ -1,0 +1,17 @@
+pandas == 1.1.5
+xlrd == 1.2.0
+seaborn == 0.11.1
+scikit-learn == 0.24.1
+xgboost==1.4.2
+matplotlib==3.3.4
+tensorflow==2.4.1
+Keras==2.4.3
+librosa == 0.8.0
+statsmodels == 0.12.2
+arch==4.8.1
+torch==1.10.0
+bayesian-optimization==1.4.0
+lightgbm==3.3.1	
+pydot==1.4.2
+graphviz==0.16
+numpy==1.19.5
